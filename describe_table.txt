@@ -1,0 +1,11 @@
+SQL>DESC student;
+
+OUTPUT :
+
+NAME           null            type
+roll_no        not null        int
+name                           varchar(15)
+dept                           varchar(4)
+city                           varchar(15)
+dob            not null        date    
+gender                         varchar(1)
