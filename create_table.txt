@@ -8,8 +8,4 @@ dob date not null,
 gender varchar(1)
 );
 
-
-
-output :
-
 table created
