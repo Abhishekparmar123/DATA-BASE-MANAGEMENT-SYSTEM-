@@ -1,7 +1,5 @@
 SQL>DESC student;
 
-OUTPUT :
-
 NAME           null            type
 roll_no        not null        int
 name                           varchar(15)
