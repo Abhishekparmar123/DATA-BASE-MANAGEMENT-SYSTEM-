@@ -1,4 +1,4 @@
-CREATE TABLE student
+SQL>CREATE TABLE student
 (
 roll_no int primary key,
 Name varchar(15),
